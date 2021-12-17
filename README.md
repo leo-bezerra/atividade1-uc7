@@ -11,3 +11,4 @@ Subindo os arquivos para o Github
 - Criação da conta e diretório
 - Vincular ao repositório remoto:  git remote add origin https://github.com/leo-bezerra/-atividade1senai-.git
 - Subindo os arquivos para o Github: git push origin master
+- Criação do arquivo: README.md
