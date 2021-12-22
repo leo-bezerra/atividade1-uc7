@@ -1,4 +1,4 @@
-Atividade 1 do curso full stack, Senai - Turma 4 - Versionamento.
+Atividade 1 do curso full stack. (Senai) Turma 4 - Versionamento.
 
 Local
 - Criação do diretório;
